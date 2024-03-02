@@ -1,2 +1,2 @@
 # JAVA_Programs
-This repository contains all my JAVA programs(java OOP and many others..)
+This repository contains all my differents programs in java(java OOP and many others..)
